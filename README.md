@@ -24,6 +24,7 @@ t_hana_rehakova_project_SQL_secondary_final.sql
 🔹 Dokumentace (DOCX)
 
 Úvodní strana projektu
+
 1.Výzkumná otázka – FINAL.docx
 2.Výzkumná otázka – FINAL.docx
 3.Výzkumná otázka – FINAL.docx
@@ -31,6 +32,7 @@ t_hana_rehakova_project_SQL_secondary_final.sql
 5.Výzkumná otázka – FINAL.docx
 
 Projekt využívá datové zdroje:
+
 czechia_payroll – mzdy
 czechia_price – ceny potravin
 czechia_price_category – kategorie potravin
@@ -51,6 +53,7 @@ Popis generovaných tabulek
 Primární tabulka: t_hana_rehakova_project_SQL_primary_final
 
 Obsah:
+
 year
 avg_wage — průměrná roční mzda v ČR
 avg_food_price — průměrná roční cena potravin v ČR
@@ -61,6 +64,7 @@ Použití:
 Sekundární tabulka: t_hana_rehakova_project_SQL_secondary_final
 
 Obsah:
+
 country
 year
 gdp
@@ -93,6 +97,7 @@ Ceny potravin mají vztah slabý a nepravidelný.
 Ceny potravin jsou ovlivněny i jinými faktory (inflace, komodity, sezónnost).
 
 Závěr projektu
+
 Projekt úspěšně vytvořil:
 sjednocené datové přehledy (primární a sekundární tabulku),
 SQL dotazy k pěti výzkumným otázkám,

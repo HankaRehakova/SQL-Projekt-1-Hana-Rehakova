@@ -7,18 +7,24 @@ Obsah repozitáře
 
 🔹 Primární tabulka (SQL)
 t_hana_rehakova_project_SQL_primary_final.sql
+
 → sjednocená data průměrné roční mzdy a průměrné roční ceny potravin v ČR.
 
 🔹 Sekundární tabulka (SQL)
 t_hana_rehakova_project_SQL_secondary_final.sql
+
 → data o HDP, GINI indexu a populaci evropských států od roku 2006.
 
 🔹 SQL skripty pro výzkumné otázky
 
 1.VÝZKUMNÁ OTÁZKA - FINAL.sql
+
 2.VÝZKUMNÁ OTÁZKA - FINAL.sql
+
 3.VÝZKUMNÁ OTÁZKA - FINAL.sql
+
 4.VÝZKUMNÁ OTÁZKA - FINAL.sql
+
 5.VÝZKUMNÁ OTÁZKA - FINAL.sql
 
 🔹 Dokumentace (DOCX)
@@ -26,9 +32,13 @@ t_hana_rehakova_project_SQL_secondary_final.sql
 Úvodní strana projektu
 
 1.Výzkumná otázka – FINAL.docx
+
 2.Výzkumná otázka – FINAL.docx
+
 3.Výzkumná otázka – FINAL.docx
+
 4.Výzkumná otázka – FINAL.docx
+
 5.Výzkumná otázka – FINAL.docx
 
 Projekt využívá datové zdroje:
@@ -42,10 +52,15 @@ countries – číselník států
 Informace o výstupních datech (důležité pro hodnotitele)
 
 Použita byla pouze data s hodnotou value IS NOT NULL.
+
 Časové období společné všem tabulkám: 2006–2018.
+
 Průměrné mzdy a ceny jsou agregovány za celý rok.
+
 Ceny potravin jsou zprůměrovány přes všechny kraje.
+
 Primární tabulka obsahuje pouze roky, které mají data v obou zdrojích (mzdy + ceny).
+
 Sekundární tabulka obsahuje všechny evropské státy (kontinent = 'Europe').
 
 Popis generovaných tabulek

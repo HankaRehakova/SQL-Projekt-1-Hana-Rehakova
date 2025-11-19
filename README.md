@@ -108,6 +108,7 @@ Analýza potvrzuje dlouhodobý růst mezd, různé tempo zdražování potravin,
 Autor
 
 Ing. Hana Řeháková
+
 Datová Akademie – ENGETO (2025)
 
 

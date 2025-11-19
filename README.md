@@ -4,14 +4,17 @@ Tento projekt se zaměřuje na analýzu vývoje mezd a cen základních potravin
 Cílem je vytvořit robustní datové podklady pro pět výzkumných otázek týkajících se kupní síly, cen potravin a ekonomického vývoje.
 
 Obsah repozitáře
+
 🔹 Primární tabulka (SQL)
 t_hana_rehakova_project_SQL_primary_final.sql
 → sjednocená data průměrné roční mzdy a průměrné roční ceny potravin v ČR.
+
 🔹 Sekundární tabulka (SQL)
 t_hana_rehakova_project_SQL_secondary_final.sql
 → data o HDP, GINI indexu a populaci evropských států od roku 2006.
 
 🔹 SQL skripty pro výzkumné otázky
+
 1.VÝZKUMNÁ OTÁZKA - FINAL.sql
 2.VÝZKUMNÁ OTÁZKA - FINAL.sql
 3.VÝZKUMNÁ OTÁZKA - FINAL.sql
@@ -19,6 +22,7 @@ t_hana_rehakova_project_SQL_secondary_final.sql
 5.VÝZKUMNÁ OTÁZKA - FINAL.sql
 
 🔹 Dokumentace (DOCX)
+
 Úvodní strana projektu
 1.Výzkumná otázka – FINAL.docx
 2.Výzkumná otázka – FINAL.docx
@@ -43,25 +47,31 @@ Primární tabulka obsahuje pouze roky, které mají data v obou zdrojích (mzdy
 Sekundární tabulka obsahuje všechny evropské státy (kontinent = 'Europe').
 
 Popis generovaných tabulek
+
 Primární tabulka: t_hana_rehakova_project_SQL_primary_final
+
 Obsah:
 year
 avg_wage — průměrná roční mzda v ČR
 avg_food_price — průměrná roční cena potravin v ČR
+
 Použití:
 → Otázka 2, 4, 5
 
 Sekundární tabulka: t_hana_rehakova_project_SQL_secondary_final
+
 Obsah:
 country
 year
 gdp
 gini
 population
+
 Použití:
 → Otázka 5
 
 Mezivýsledky k výzkumným otázkám
+
 1. Rostou mzdy ve všech odvětvích, nebo v některých klesají?
 Analýza ukazuje, že většina odvětví má dlouhodobě rostoucí mzdy, avšak několik odvětví zaznamenalo meziroční pokles, například zemědělství nebo vzdělávání.
 
@@ -91,6 +101,7 @@ dokumentaci s výsledky analýz.
 Analýza potvrzuje dlouhodobý růst mezd, různé tempo zdražování potravin, i fakt, že růst HDP souvisí především s růstem mezd, nikoliv cen potravin.
 
 Autor
+
 Ing. Hana Řeháková
 Datová Akademie – ENGETO (2025)
 

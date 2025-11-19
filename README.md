@@ -44,9 +44,13 @@ t_hana_rehakova_project_SQL_secondary_final.sql
 Projekt využívá datové zdroje:
 
 czechia_payroll – mzdy
+
 czechia_price – ceny potravin
+
 czechia_price_category – kategorie potravin
+
 economies – makroekonomické ukazatele (HDP, GINI, populace)
+
 countries – číselník států
 
 Informace o výstupních datech (důležité pro hodnotitele)

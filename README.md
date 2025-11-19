@@ -104,25 +104,25 @@ Použití:
 Mezivýsledky k výzkumným otázkám
 
 1. Rostou mzdy ve všech odvětvích, nebo v některých klesají?
-2. 
+   
 Analýza ukazuje, že většina odvětví má dlouhodobě rostoucí mzdy, avšak několik odvětví zaznamenalo meziroční pokles, například zemědělství nebo vzdělávání.
 
-3. Kolik je možné koupit chleba a mléka za první a poslední společný rok?
-4. 
+2. Kolik je možné koupit chleba a mléka za první a poslední společný rok?
+   
 Výsledky ukazují, že kupní síla výrazně stoupla. V prvních letech bylo možné koupit méně chleba a mléka. V roce 2018 si lidé mohou za průměrnou mzdu koupit chleba a mléka výrazně více.
 
-5. Která potravinová kategorie zdražuje nejpomaleji?
-6. 
+3. Která potravinová kategorie zdražuje nejpomaleji?
+   
 Některé potraviny mají minimální růst, dokonce i zlevňují (např. cukr krystalový).
 
-7. Existuje rok, kdy růst cen > růst mezd o více než 10 %?
-8. 
+4. Existuje rok, kdy růst cen > růst mezd o více než 10 %?
+   
 Ano.
 Např. roky 2007, 2008, 2012, 2013, 2014, 2016, 2017, 2018.
 V těchto letech ceny rostly výrazně rychleji než mzdy.
 
-9. Ovlivňuje růst HDP změny mezd a cen potravin?
-10. 
+5. Ovlivňuje růst HDP změny mezd a cen potravin?
+    
 Výsledek:
 Mzdy vykazují poměrně silnou vazbu na růst HDP.
 Ceny potravin mají vztah slabý a nepravidelný.

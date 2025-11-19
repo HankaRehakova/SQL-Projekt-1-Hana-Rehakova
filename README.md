@@ -41,6 +41,7 @@ t_hana_rehakova_project_SQL_secondary_final.sql
 
 5.Výzkumná otázka – FINAL.docx
 
+
 Projekt využívá datové zdroje:
 
 czechia_payroll – mzdy

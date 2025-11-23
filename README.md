@@ -27,19 +27,11 @@ t_hana_rehakova_project_SQL_secondary_final.sql
 
 5.VÝZKUMNÁ OTÁZKA - FINAL.sql
 
-🔹 Dokumentace (DOCX)
+🔹 Dokumentace (PDF)
 
 Úvodní strana projektu
 
-1.Výzkumná otázka – FINAL.docx
-
-2.Výzkumná otázka – FINAL.docx
-
-3.Výzkumná otázka – FINAL.docx
-
-4.Výzkumná otázka – FINAL.docx
-
-5.Výzkumná otázka – FINAL.docx
+1.Výzkumné otázky č. 1-5 
 
 
 Projekt využívá datové zdroje:
